@@ -46,17 +46,15 @@
 ![Office](https://img.shields.io/badge/-Office-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAwUlEQVQokdWSPw4BcRCFv/llk9VIVMJWG5VLSDQS2YZCoVhxBI1riCtonEDoqRVusInErkJUGhsxmvUnQbCdV76Zb14meZBS8m4Q1QuuGvGBGrBCmGNk4UzC3RMYNN2cHcct0A5QSeYnwEpiDs40ygKYKxR6xbEdHyPQHrAUtA24igxvl/UeZD0ENoCMoIPibDu6mhvPefmKeel+oT8G96K6/hXsG85dRbZB1c18At8VwAdKQADkgXKyfStA6sql1gVM3Dt8ATI6UwAAAABJRU5ErkJggg==)
 <br/>
 
-<!--
-**leonben2892/leonben2892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 📖 &nbsp;About Me</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on live polls platform
+- 🌱 I’m currently learning Stripe API, Docker & Kubernetes
+- 👯 I’m looking to collaborate on any project that can benefits the greater good (So we can be billionaires of course...)
+- 💬 Ask me about anything related to nutrition & fitness
+- ❗ Good to know: most of my repos are private
+- 😄 Pronouns: He / Him / His
+- 🎿 Hobbies: coding, watching friends, exercising & eating
+- 📫 Reach me: <a href="https://www.linkedin.com/in/leon-benjamin/">LinkedIn</a> or <a href="mailto:leon.ben2892@gmail.com">leon.ben2892@gmail.com</a>
+- ⚡ Fun fact: The eyeball is the only organism which does not grow from birth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
