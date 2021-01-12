@@ -49,9 +49,9 @@
 <h3> 📖 &nbsp;About Me</h3>
 
 - 🔭 I’m currently working on live polls platform
-- 🌱 I’m currently learning Stripe API, Docker & Kubernetes
+- 🌱 I’m currently learning Docker & Kubernetes
 - 👯 I’m looking to collaborate on any project that can benefits the greater good (So we can be billionaires of course...)
-- 💬 Ask me about anything related to nutrition & fitness
+- 💬 Ask me about anything related to friends (the show)
 - ❗ Good to know: most of my repos are private
 - 😄 Pronouns: He / Him / His
 - 🎿 Hobbies: coding, watching friends, exercising & eating
