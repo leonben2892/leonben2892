@@ -7,6 +7,7 @@
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/leonben2892)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leon-benjamin)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leon.ben2892@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white)](https://www.leon-benjamin.com)
 </div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -49,13 +50,8 @@
 
 <h3> 📖 &nbsp;About Me</h3>
 
-- 🔭 I’m currently working on live polls platform
-- 🌱 I’m currently learning Docker & Kubernetes
 - 👯 I’m looking to collaborate on any project that can benefits the greater good (So we can be billionaires of course...)
 - 💬 Ask me about anything related to friends (the show)
-- ❗ Good to know: most of my repos are private
-- 😄 Pronouns: He / Him / His
-- 🎿 Hobbies: coding, watching friends, exercising & eating
-- 📫 Reach me: <a href="https://www.linkedin.com/in/leon-benjamin/">LinkedIn</a> or <a href="mailto:leon.ben2892@gmail.com">leon.ben2892@gmail.com</a>
-- ⚡ Fun fact: The eyeball is the only organism which does not grow from birth
+- 🎿 Hobbies: coding, watching friends, exercising & woodworking
+- 📫 Reach me: <a href="https://www.linkedin.com/in/leon-benjamin/">LinkedIn</a> or <a href="mailto:leon.ben2892@gmail.com">Email</a>
 
